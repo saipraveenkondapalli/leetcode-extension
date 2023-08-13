@@ -35,6 +35,20 @@ git clone https://github.com/saipraveenkondapalli/leetcode-extension.git
 4. Click on `Load unpacked` and select the cloned repository folder
 5. The extension will be added to the browser and you can see the extension icon on the top right corner of the browser
 
+## Features 
+### Companies List
+The extension displays the list of companies that have asked a particular question on leetcode directly on the leetcode page in a table with number of times the company has asked the question and probability of the company asking the question.
+
+### Youtube Video Solutions
+- The extension displays the YouTube video solutions for the question on the sidebar.
+- The extension also displays channel name, views, time of upload and duration of the video.
+
+### Caching
+The extension caches the data for the companies list and YouTube video solutions for a particular question in the local storage upto month and avoids unnecessary and frequent API calls.
+
+### Upcoming Features
+-  Add a feature to display the list of questions asked by a particular company.
+-  Allow users to add questions to the database
 
 ## Demo
 
