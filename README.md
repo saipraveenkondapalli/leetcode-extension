@@ -7,9 +7,10 @@ This helps the user to get an idea of the companies that ask a particular questi
 
 This extension also displays YouTube video solution for the on the sidebar.
 
->[!NOTE]
->The extension is not yet published on chrome store because I am working on adding new features.
 
+>[!NOTE]
+> * The extension is not yet published on chrome store because I am working on adding new features.
+> * This project was part of Interview Prep Pro project. It is currently being developed separetly with its own custom API.
 
 > [!IMPORTANT]
 > * This extension fetches the companies list and youtube video solutions data from a custom made API.
