@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "name": "Leetcode Insights: Company Questions & Youtube Solutions",
+    "version": "1.0",
+    "description": "Directly displays companies and youtube Solutions in a sidebar",
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {},
+    "permissions": [
+      "scripting",
+      "activeTab"
+    ],
+    "host_permissions": [
+      "https://leetcode.com/problems/*"
+    ],
+
+    "content_scripts": [
+      {
+        "matches": ["https://leetcode.com/problems/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "web_accessible_resources": [
+      {
+        "resources": ["logo.png", "coffee.png"],
+        "matches": ["<all_urls>"]
+      }]
+  
+  }
+  
+
+
+
