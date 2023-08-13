@@ -8,7 +8,7 @@ This helps the user to get an idea of the companies that ask a particular questi
 This extension also displays YouTube video solution for the on the sidebar.
 
 >[!NOTE]
->The extension is not yet published on chrome store due to budget constraints.
+>The extension is not yet published on chrome store because I am working on adding new features.
 
 
 > [!IMPORTANT]
