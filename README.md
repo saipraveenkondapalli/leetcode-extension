@@ -15,7 +15,7 @@ This extension also displays YouTube video solution for the on the sidebar.
 > [!IMPORTANT]
 > * This extension fetches the companies list and youtube video solutions data from a custom made API.
 > * The API is developed using `python(flask)`, `mongoDB` and `beautifulsoup4`(Scrape YouTube for video links) and hosted on vercel.
-> * I am not displaying the source code for the API due to security reasons.
+> * I have not made the source code for the API public due to security reasons.
 
 
 
